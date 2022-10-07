@@ -1,0 +1,1 @@
+execute as @a at @s run function excaliaoo_sword:player
